@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import { Send, Mail, MapPin, Globe, ArrowUpRight, Loader2 } from 'lucide-react';
-import Navbar from './navbar';
+import Navbar from './Navbar';
 
 const Contact = () => {
   const [form, setForm] = useState({ name: '', email: '', message: '' });

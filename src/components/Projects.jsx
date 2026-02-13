@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import { Github, ExternalLink, Zap, Terminal } from 'lucide-react';
-import Navbar from './navbar';
+import Navbar from './Navbar';
 
 const projects = [
   {

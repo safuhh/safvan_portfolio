@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { ArrowRight, Code2, Cpu, Globe } from "lucide-react";
-import Navbar from "./navbar";
+import Navbar from "./Navbar";
 
 const About = () => {
   const [loaded, setLoaded] = useState(false);

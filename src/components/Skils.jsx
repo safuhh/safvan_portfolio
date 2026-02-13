@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import Navbar from './navbar';
+import Navbar from './Navbar';
 
 const Skills = () => {
   const [loaded, setLoaded] = useState(false);

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { NavLink } from 'react-router-dom';
 import { Menu, X, ArrowUpRight } from 'lucide-react';
 
-const Navbar = () => {
+export default Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
@@ -103,4 +103,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+
