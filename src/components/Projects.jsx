@@ -9,8 +9,8 @@ const projects = [
     image: '/cho.png', // must be in public folder
     tech: ['React', 'Node', 'Stripe'],
     accent: 'from-indigo-500/20',
-    url: 'https://choco-eight.vercel.app/', // live project URL
-    github: 'https://github.com/safuhh/choco'
+    url: 'https://ecom-frontend-dqdt.vercel.app/', // live project URL
+    github: 'https://github.com/safuhh/ecom-frontend'
   },
   {
     name: 'Netflix Clone',
